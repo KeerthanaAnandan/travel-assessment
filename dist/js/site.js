@@ -93,7 +93,7 @@ let questions = [
   },
   {
     id: 10,
-    question: "10.Where would you rather live?",
+    question: "Where would you rather live?",
     answer: "Central Processing Unit",
     options: [
       "Nothing compares to my country",
