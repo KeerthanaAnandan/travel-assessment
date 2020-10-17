@@ -1,7 +1,7 @@
 let questions = [
   {
     id: 1,
-    question: "1.Your luggage consists of",
+    question: "Your luggage consists of",
     answer: "auditory",
     options: [
       "Accessories, iPhone, magazine",
